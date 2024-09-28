@@ -1,0 +1,7 @@
+{
+  "branch": "nixpkgs-unstable",
+  "repo": "nixpkgs",
+  "owner": "NixOS",
+  "commit": "4471f9f67fe0f95f5fec4cc2ebac59fe32af2b62",
+  "sha": "10y5pc09a9sdqdaj674ab2vanpf42ggrfpjz4b3wvc78w1rj06d1"
+}
